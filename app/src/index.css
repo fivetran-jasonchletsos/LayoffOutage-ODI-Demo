@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0b1220;
+  --color-ink-strong: #050810;
+  --color-ink-muted: #4b5563;
+  --color-ink-soft: #6b7280;
+  --color-ink-dim: #9ca3af;
+  --color-paper: #fefaf3;
+  --color-paper-deep: #f4efe2;
+  --color-card: #ffffff;
+  --color-hairline: #d9d3c4;
+  --color-hairline-soft: #e8e4d8;
+  --color-accent: #0073EA;
+  --color-mark: #b8975c;
+  --color-warn: #b45309;
+  --color-fail: #dc2626;
+  --color-pass: #15803d;
+  --font-serif: "Crimson Pro", Georgia, "Times New Roman", serif;
+  --font-sans: -apple-system, "Inter", "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-mono: "JetBrains Mono", "SF Mono", Menlo, monospace;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.serif { font-family: var(--font-serif); }
+.tabular { font-variant-numeric: tabular-nums; }
+
+.dataset-card {
+  background: var(--color-card);
+  border: 1px solid var(--color-hairline);
+  border-radius: 4px;
+}
+
+.dataset-card-header {
+  padding: 18px 20px;
+  border-bottom: 1px solid var(--color-hairline-soft);
+}

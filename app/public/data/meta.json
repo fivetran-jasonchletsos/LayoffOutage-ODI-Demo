@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-05-26T16:20:23+00:00",
+  "layoffs_source_url": "https://raw.githubusercontent.com/bigyaa/Layoff-Prediction-Model/master/layoffs_data_fyi.csv",
+  "layoffs_source_note": "Mirror of layoffs.fyi (Roger Lee). CSV cuts off Feb 2024; augmented with manually-curated 2024-Sep events from public news.",
+  "tracked_company_count": 42,
+  "tracked_event_count": 72,
+  "tracked_incident_count": 728,
+  "data_window": "Status-page atom feeds typically expose 2-5 years of history; layoff dataset spans 2020-Sep 2024 (manual mix).",
+  "caveats": [
+    "Correlation, not causation. Incident counts before vs after a layoff event are descriptive.",
+    "Status-page incident severity is not normalized across companies. A 'minor' incident at Stripe is counted the same as a 'major' incident at Discord.",
+    "Status pages publicize only what each company chooses to disclose. Underreporting bias is real.",
+    "Layoffs.fyi data is community-sourced. Some events may be over- or under-counted.",
+    "The 90-day window is arbitrary; alternative windows would shift the deltas.",
+    "We intentionally avoid editorializing per company. The dataset is a starting point, not a verdict."
+  ]
+}

@@ -1,0 +1,1892 @@
+{
+  "companies": [
+    {
+      "name": "Atlassian",
+      "status_url": "https://status.atlassian.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2022-06-22",
+      "incidents_last": "2025-04-30",
+      "monthly": [
+        {
+          "month": "2022-06",
+          "count": 1
+        },
+        {
+          "month": "2022-08",
+          "count": 1
+        },
+        {
+          "month": "2023-07",
+          "count": 1
+        },
+        {
+          "month": "2023-08",
+          "count": 1
+        },
+        {
+          "month": "2023-09",
+          "count": 2
+        },
+        {
+          "month": "2023-10",
+          "count": 2
+        },
+        {
+          "month": "2023-11",
+          "count": 1
+        },
+        {
+          "month": "2023-12",
+          "count": 1
+        },
+        {
+          "month": "2024-01",
+          "count": 1
+        },
+        {
+          "month": "2024-02",
+          "count": 2
+        },
+        {
+          "month": "2024-06",
+          "count": 3
+        },
+        {
+          "month": "2024-07",
+          "count": 1
+        },
+        {
+          "month": "2024-08",
+          "count": 1
+        },
+        {
+          "month": "2024-09",
+          "count": 3
+        },
+        {
+          "month": "2024-12",
+          "count": 2
+        },
+        {
+          "month": "2025-03",
+          "count": 1
+        },
+        {
+          "month": "2025-04",
+          "count": 1
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2023-03-06",
+          "laid_off": 500,
+          "pct": 0.05,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2023/03/06/atlassian-cuts-5percent-of-headcount-as-it-focuses-on-high-priority-areas.html"
+        },
+        {
+          "date": "2025-04-09",
+          "laid_off": 1600,
+          "pct": 0.1,
+          "before": 1,
+          "after": 1,
+          "delta": 0,
+          "delta_pct": 0.0,
+          "source": "https://sundayguardianlive.com/world/atlassian-layoffs-why-the-software-firm-is-cutting-jobs-worldwide-as-1600-workers-are-affected-175704/"
+        }
+      ]
+    },
+    {
+      "name": "Slack",
+      "status_url": "https://status.slack.com/feed/atom",
+      "incidents_total": 48,
+      "incidents_first": "2025-11-28",
+      "incidents_last": "2026-05-19",
+      "monthly": [
+        {
+          "month": "2025-11",
+          "count": 1
+        },
+        {
+          "month": "2025-12",
+          "count": 6
+        },
+        {
+          "month": "2026-01",
+          "count": 9
+        },
+        {
+          "month": "2026-02",
+          "count": 10
+        },
+        {
+          "month": "2026-03",
+          "count": 8
+        },
+        {
+          "month": "2026-04",
+          "count": 8
+        },
+        {
+          "month": "2026-05",
+          "count": 6
+        }
+      ],
+      "layoff_events": []
+    },
+    {
+      "name": "Stripe",
+      "status_url": "https://status.stripe.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": [
+        {
+          "date": "2022-08-19",
+          "laid_off": 50,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://techcrunch.com/2022/08/19/stripe-layoffs-taxjar-tech/"
+        },
+        {
+          "date": "2022-11-03",
+          "laid_off": 1000,
+          "pct": 0.14,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.bloomberg.com/news/articles/2022-11-03/stripe-cutting-headcount-by-14-as-it-readies-for-leaner-times"
+        },
+        {
+          "date": "2023-06-29",
+          "laid_off": null,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theinformation.com/articles/stripe-lays-off-dozens-mostly-in-recruiting"
+        },
+        {
+          "date": "2024-01-09",
+          "laid_off": 353,
+          "pct": 0.005,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theinformation.com/articles/stripe-cuts-staff-as-it-shifts-engineering-roles"
+        },
+        {
+          "date": "2025-01-21",
+          "laid_off": 300,
+          "pct": 0.035,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/"
+        }
+      ]
+    },
+    {
+      "name": "Shopify",
+      "status_url": "https://status.shopify.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": [
+        {
+          "date": "2020-08-14",
+          "laid_off": 30,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://betakit.com/shopify-cuts-office-staff-amid-remote-work-shift/"
+        },
+        {
+          "date": "2022-07-06",
+          "laid_off": 50,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theglobeandmail.com/business/article-shopify-compensation-hiring-plans/"
+        },
+        {
+          "date": "2022-07-26",
+          "laid_off": 1000,
+          "pct": 0.1,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.wsj.com/articles/shopify-to-lay-off-10-of-workers-in-broad-shake-up-11658839047"
+        },
+        {
+          "date": "2022-09-01",
+          "laid_off": 70,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theinformation.com/briefings/shopify-makes-a-fresh-round-of-layoffs"
+        },
+        {
+          "date": "2023-05-04",
+          "laid_off": 2300,
+          "pct": 0.2,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cbc.ca/news/business/shopify-layoffs-1.6831842"
+        }
+      ]
+    },
+    {
+      "name": "Twilio",
+      "status_url": "https://status.twilio.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-05-26",
+      "incidents_last": "2026-06-24",
+      "monthly": [
+        {
+          "month": "2026-05",
+          "count": 10
+        },
+        {
+          "month": "2026-06",
+          "count": 15
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2022-09-14",
+          "laid_off": 800,
+          "pct": 0.11,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://techcrunch.com/2022/09/14/twilio-lays-off-11-of-its-staff-as-it-aims-for-profitability-in-2023/"
+        },
+        {
+          "date": "2023-02-13",
+          "laid_off": 1500,
+          "pct": 0.17,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2023/02/13/twilio-layoffs-1500-employees-17percent-of-workforce.html"
+        },
+        {
+          "date": "2023-12-04",
+          "laid_off": null,
+          "pct": 0.05,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.bloomberg.com/news/articles/2023-12-04/twilio-to-cut-another-5-of-workforce-in-third-round-of-layoffs"
+        }
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "status_url": "https://www.cloudflarestatus.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-05-26",
+      "incidents_last": "2026-06-04",
+      "monthly": [
+        {
+          "month": "2026-05",
+          "count": 22
+        },
+        {
+          "month": "2026-06",
+          "count": 3
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2024-01-11",
+          "laid_off": 40,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://twitter.com/eastdakota/status/1745697840180191501"
+        },
+        {
+          "date": "2024-01-30",
+          "laid_off": 40,
+          "pct": 0.013,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theverge.com/2024/1/30/24056862/cloudflare-layoffs-employee-fired"
+        }
+      ]
+    },
+    {
+      "name": "Heroku",
+      "status_url": "https://status.heroku.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": []
+    },
+    {
+      "name": "Notion",
+      "status_url": "https://status.notion.so/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": []
+    },
+    {
+      "name": "Discord",
+      "status_url": "https://discordstatus.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-01-27",
+      "incidents_last": "2026-05-21",
+      "monthly": [
+        {
+          "month": "2026-01",
+          "count": 1
+        },
+        {
+          "month": "2026-02",
+          "count": 4
+        },
+        {
+          "month": "2026-03",
+          "count": 12
+        },
+        {
+          "month": "2026-04",
+          "count": 4
+        },
+        {
+          "month": "2026-05",
+          "count": 4
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2023-08-03",
+          "laid_off": 37,
+          "pct": 0.04,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theinformation.com/briefings/discord-lays-off-4-of-workforce"
+        },
+        {
+          "date": "2024-01-11",
+          "laid_off": 170,
+          "pct": 0.17,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees"
+        },
+        {
+          "date": "2024-01-11",
+          "laid_off": 170,
+          "pct": 0.17,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theverge.com/2024/1/11/24036030/discord-layoffs-170-employees-17-percent"
+        }
+      ]
+    },
+    {
+      "name": "DigitalOcean",
+      "status_url": "https://status.digitalocean.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-04-22",
+      "incidents_last": "2026-05-20",
+      "monthly": [
+        {
+          "month": "2026-04",
+          "count": 10
+        },
+        {
+          "month": "2026-05",
+          "count": 15
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2023-02-15",
+          "laid_off": 200,
+          "pct": 0.11,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theregister.com/2023/02/15/digitalocean_layoffs/"
+        },
+        {
+          "date": "2025-01-21",
+          "laid_off": 70,
+          "pct": 0.05,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://layoffstracker.com/digitalocean-lays-off-200-employees/"
+        }
+      ]
+    },
+    {
+      "name": "Datadog",
+      "status_url": "https://status.datadoghq.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-12-09",
+      "incidents_last": "2026-05-15",
+      "monthly": [
+        {
+          "month": "2025-12",
+          "count": 3
+        },
+        {
+          "month": "2026-01",
+          "count": 4
+        },
+        {
+          "month": "2026-02",
+          "count": 5
+        },
+        {
+          "month": "2026-03",
+          "count": 4
+        },
+        {
+          "month": "2026-04",
+          "count": 4
+        },
+        {
+          "month": "2026-05",
+          "count": 5
+        }
+      ],
+      "layoff_events": []
+    },
+    {
+      "name": "Snowflake",
+      "status_url": "https://status.snowflake.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-10-22",
+      "incidents_last": "2026-05-15",
+      "monthly": [
+        {
+          "month": "2025-10",
+          "count": 1
+        },
+        {
+          "month": "2025-11",
+          "count": 4
+        },
+        {
+          "month": "2025-12",
+          "count": 2
+        },
+        {
+          "month": "2026-01",
+          "count": 5
+        },
+        {
+          "month": "2026-02",
+          "count": 1
+        },
+        {
+          "month": "2026-03",
+          "count": 5
+        },
+        {
+          "month": "2026-04",
+          "count": 3
+        },
+        {
+          "month": "2026-05",
+          "count": 4
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2025-09-15",
+          "laid_off": 400,
+          "pct": 0.06,
+          "before": 0,
+          "after": 6,
+          "delta": 6,
+          "delta_pct": null,
+          "source": "https://gethrbrief.com/story/snowflake-layoffs-openai-partnership-analysis"
+        }
+      ]
+    },
+    {
+      "name": "New Relic",
+      "status_url": "https://status.newrelic.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-09-06",
+      "incidents_last": "2026-05-18",
+      "monthly": [
+        {
+          "month": "2025-09",
+          "count": 5
+        },
+        {
+          "month": "2025-10",
+          "count": 3
+        },
+        {
+          "month": "2025-11",
+          "count": 2
+        },
+        {
+          "month": "2025-12",
+          "count": 1
+        },
+        {
+          "month": "2026-01",
+          "count": 2
+        },
+        {
+          "month": "2026-02",
+          "count": 2
+        },
+        {
+          "month": "2026-03",
+          "count": 5
+        },
+        {
+          "month": "2026-04",
+          "count": 3
+        },
+        {
+          "month": "2026-05",
+          "count": 2
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2020-06-29",
+          "laid_off": 20,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.bizjournals.com/portland/news/2020/06/29/layoffs-at-new-relic-as-company-combines-2-enginee.html"
+        },
+        {
+          "date": "2021-04-06",
+          "laid_off": 160,
+          "pct": 0.07,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://siliconangle.com/2021/04/06/new-relic-let-go-7-employees-amid-business-model-refocus/"
+        },
+        {
+          "date": "2022-08-18",
+          "laid_off": 110,
+          "pct": 0.05,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.marketwatch.com/story/new-relic-commits-to-restructuring-plan-including-layoffs-271660823014"
+        },
+        {
+          "date": "2023-06-27",
+          "laid_off": 255,
+          "pct": 0.1,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.oregonlive.com/silicon-forest/2023/06/new-relic-will-lay-off-another-255-in-latest-restructuring.html"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "status_url": "https://status.hubspot.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-01-29",
+      "incidents_last": "2026-05-12",
+      "monthly": [
+        {
+          "month": "2026-01",
+          "count": 1
+        },
+        {
+          "month": "2026-02",
+          "count": 6
+        },
+        {
+          "month": "2026-03",
+          "count": 4
+        },
+        {
+          "month": "2026-04",
+          "count": 11
+        },
+        {
+          "month": "2026-05",
+          "count": 3
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2023-01-31",
+          "laid_off": 500,
+          "pct": 0.07,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.marketwatch.com/story/hubspot-to-lay-off-about-500-employees-consolidate-workspace-leases-01675175630"
+        },
+        {
+          "date": "2024-01-24",
+          "laid_off": null,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.linkedin.com/posts/jcolman_hubspot-content-designers-open-to-work-activity-7156050968306991105-917M/"
+        }
+      ]
+    },
+    {
+      "name": "Mailchimp",
+      "status_url": "https://status.mailchimp.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": []
+    },
+    {
+      "name": "Zoom",
+      "status_url": "https://status.zoom.us/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-05-17",
+      "incidents_last": "2026-08-01",
+      "monthly": [
+        {
+          "month": "2026-05",
+          "count": 22
+        },
+        {
+          "month": "2026-06",
+          "count": 2
+        },
+        {
+          "month": "2026-08",
+          "count": 1
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2023-02-07",
+          "laid_off": 1300,
+          "pct": 0.15,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2023/02/07/zoom-to-lay-off-1300-employees-or-about-15percent-of-its-workforce.html"
+        },
+        {
+          "date": "2024-02-01",
+          "laid_off": 150,
+          "pct": 0.02,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2024/02/01/zoom-layoffs-company-cuts-150-employees-2percent-of-workforce.html"
+        },
+        {
+          "date": "2024-02-01",
+          "laid_off": 150,
+          "pct": 0.02,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2024/02/01/zoom-layoffs-company-cuts-150-employees-2percent-of-workforce.html"
+        }
+      ]
+    },
+    {
+      "name": "Dropbox",
+      "status_url": "https://status.dropbox.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-05-06",
+      "incidents_last": "2026-05-27",
+      "monthly": [
+        {
+          "month": "2025-05",
+          "count": 4
+        },
+        {
+          "month": "2025-06",
+          "count": 1
+        },
+        {
+          "month": "2025-07",
+          "count": 1
+        },
+        {
+          "month": "2025-08",
+          "count": 1
+        },
+        {
+          "month": "2025-09",
+          "count": 3
+        },
+        {
+          "month": "2025-10",
+          "count": 3
+        },
+        {
+          "month": "2025-11",
+          "count": 3
+        },
+        {
+          "month": "2026-01",
+          "count": 2
+        },
+        {
+          "month": "2026-02",
+          "count": 1
+        },
+        {
+          "month": "2026-03",
+          "count": 1
+        },
+        {
+          "month": "2026-04",
+          "count": 3
+        },
+        {
+          "month": "2026-05",
+          "count": 2
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2021-01-13",
+          "laid_off": 315,
+          "pct": 0.15,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2021/01/13/dropbox-to-cut-11percent-of-its-global-workforce.html"
+        },
+        {
+          "date": "2023-04-27",
+          "laid_off": 500,
+          "pct": 0.16,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://blog.dropbox.com/topics/company/a-message-from-drew"
+        },
+        {
+          "date": "2024-10-30",
+          "laid_off": 528,
+          "pct": 0.2,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2024/10/30/dropbox-slashes-20percent-of-global-workforce-eliminating-500-roles.html"
+        }
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "status_url": "https://status.mongodb.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-02-13",
+      "incidents_last": "2026-05-24",
+      "monthly": [
+        {
+          "month": "2026-02",
+          "count": 3
+        },
+        {
+          "month": "2026-03",
+          "count": 10
+        },
+        {
+          "month": "2026-04",
+          "count": 4
+        },
+        {
+          "month": "2026-05",
+          "count": 8
+        }
+      ],
+      "layoff_events": []
+    },
+    {
+      "name": "Asana",
+      "status_url": "https://status.asana.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-06-17",
+      "incidents_last": "2026-04-21",
+      "monthly": [
+        {
+          "month": "2025-06",
+          "count": 2
+        },
+        {
+          "month": "2025-07",
+          "count": 1
+        },
+        {
+          "month": "2025-08",
+          "count": 1
+        },
+        {
+          "month": "2025-10",
+          "count": 5
+        },
+        {
+          "month": "2025-11",
+          "count": 4
+        },
+        {
+          "month": "2025-12",
+          "count": 3
+        },
+        {
+          "month": "2026-01",
+          "count": 4
+        },
+        {
+          "month": "2026-02",
+          "count": 1
+        },
+        {
+          "month": "2026-03",
+          "count": 2
+        },
+        {
+          "month": "2026-04",
+          "count": 2
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2022-11-15",
+          "laid_off": 180,
+          "pct": 0.09,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.linkedin.com/posts/anneraimondi_earlier-today-we-shared-the-incredibly-difficult-activity-6998297745270718465-a_MV/"
+        },
+        {
+          "date": "2025-02-06",
+          "laid_off": 77,
+          "pct": 0.046,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.warntracker.com/company/asana"
+        }
+      ]
+    },
+    {
+      "name": "Coinbase",
+      "status_url": "https://status.coinbase.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-05-08",
+      "incidents_last": "2026-05-25",
+      "monthly": [
+        {
+          "month": "2026-05",
+          "count": 25
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2022-06-14",
+          "laid_off": 1100,
+          "pct": 0.18,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2022/06/14/coinbase-lays-off-18percent-as-execs-prepare-for-recession-crypto-winter.html"
+        },
+        {
+          "date": "2022-11-10",
+          "laid_off": 60,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.theinformation.com/articles/coinbase-is-cutting-more-jobs"
+        },
+        {
+          "date": "2023-01-10",
+          "laid_off": 950,
+          "pct": 0.2,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2023/01/10/coinbase-to-slash-20percent-of-workforce-in-second-major-round-of-job-cuts.html"
+        },
+        {
+          "date": "2025-11-12",
+          "laid_off": 700,
+          "pct": 0.14,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cbsnews.com/news/coinbase-layoffs-ai-brian-armstrong/"
+        }
+      ]
+    },
+    {
+      "name": "Squarespace",
+      "status_url": "https://status.squarespace.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-12-08",
+      "incidents_last": "2026-05-20",
+      "monthly": [
+        {
+          "month": "2025-12",
+          "count": 4
+        },
+        {
+          "month": "2026-01",
+          "count": 3
+        },
+        {
+          "month": "2026-02",
+          "count": 3
+        },
+        {
+          "month": "2026-03",
+          "count": 6
+        },
+        {
+          "month": "2026-04",
+          "count": 7
+        },
+        {
+          "month": "2026-05",
+          "count": 2
+        }
+      ],
+      "layoff_events": []
+    },
+    {
+      "name": "Vimeo",
+      "status_url": "https://status.vimeo.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-09-09",
+      "incidents_last": "2026-05-19",
+      "monthly": [
+        {
+          "month": "2025-09",
+          "count": 3
+        },
+        {
+          "month": "2025-10",
+          "count": 11
+        },
+        {
+          "month": "2025-11",
+          "count": 2
+        },
+        {
+          "month": "2025-12",
+          "count": 4
+        },
+        {
+          "month": "2026-01",
+          "count": 2
+        },
+        {
+          "month": "2026-03",
+          "count": 1
+        },
+        {
+          "month": "2026-04",
+          "count": 1
+        },
+        {
+          "month": "2026-05",
+          "count": 1
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2022-07-18",
+          "laid_off": null,
+          "pct": 0.06,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.businessinsider.com/vimeo-conducts-layoffs-job-cuts-2022-7"
+        },
+        {
+          "date": "2023-01-04",
+          "laid_off": null,
+          "pct": 0.11,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://vimeo.com/blog/post/a-message-from-vimeos-ceo-jan-2023/"
+        }
+      ]
+    },
+    {
+      "name": "Etsy",
+      "status_url": "https://status.etsystatus.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": [
+        {
+          "date": "2023-12-13",
+          "laid_off": 225,
+          "pct": 0.11,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2023/12/13/etsy-laying-off-11percent-of-staff-citing-competitive-environment.html"
+        },
+        {
+          "date": "2024-08-07",
+          "laid_off": 30,
+          "pct": 0.18,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.sec.gov/Archives/edgar/data/0001370637/000137063724000051/etsy-20240930.htm"
+        }
+      ]
+    },
+    {
+      "name": "Twitch",
+      "status_url": "https://status.twitch.tv/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2022-09-28",
+      "incidents_last": "2026-03-31",
+      "monthly": [
+        {
+          "month": "2022-09",
+          "count": 1
+        },
+        {
+          "month": "2022-10",
+          "count": 1
+        },
+        {
+          "month": "2022-11",
+          "count": 4
+        },
+        {
+          "month": "2023-01",
+          "count": 2
+        },
+        {
+          "month": "2023-04",
+          "count": 2
+        },
+        {
+          "month": "2023-06",
+          "count": 1
+        },
+        {
+          "month": "2023-07",
+          "count": 3
+        },
+        {
+          "month": "2023-09",
+          "count": 1
+        },
+        {
+          "month": "2023-11",
+          "count": 1
+        },
+        {
+          "month": "2023-12",
+          "count": 3
+        },
+        {
+          "month": "2024-08",
+          "count": 3
+        },
+        {
+          "month": "2024-09",
+          "count": 1
+        },
+        {
+          "month": "2025-06",
+          "count": 1
+        },
+        {
+          "month": "2026-03",
+          "count": 1
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2023-10-03",
+          "laid_off": null,
+          "pct": null,
+          "before": 3,
+          "after": 4,
+          "delta": 1,
+          "delta_pct": 33.33333333333333,
+          "source": "https://www.gamesindustry.biz/twitch-makes-another-round-of-layoffs"
+        },
+        {
+          "date": "2024-01-09",
+          "laid_off": 500,
+          "pct": 0.35,
+          "before": 4,
+          "after": 0,
+          "delta": -4,
+          "delta_pct": -100.0,
+          "source": "https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff"
+        },
+        {
+          "date": "2024-01-10",
+          "laid_off": 500,
+          "pct": 0.35,
+          "before": 4,
+          "after": 0,
+          "delta": -4,
+          "delta_pct": -100.0,
+          "source": "https://www.cnbc.com/2024/01/10/twitch-layoffs-500-employees.html"
+        }
+      ]
+    },
+    {
+      "name": "Roblox",
+      "status_url": "https://status.roblox.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": [
+        {
+          "date": "2023-09-22",
+          "laid_off": 30,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://techcrunch.com/2023/09/21/roblox-cuts-30-on-talent-acquisition-team-as-hiring-slows/"
+        }
+      ]
+    },
+    {
+      "name": "Robinhood",
+      "status_url": "https://status.robinhood.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2021-04-13",
+      "incidents_last": "2022-04-25",
+      "monthly": [
+        {
+          "month": "2021-04",
+          "count": 4
+        },
+        {
+          "month": "2021-05",
+          "count": 3
+        },
+        {
+          "month": "2021-06",
+          "count": 1
+        },
+        {
+          "month": "2021-07",
+          "count": 2
+        },
+        {
+          "month": "2021-09",
+          "count": 5
+        },
+        {
+          "month": "2021-11",
+          "count": 4
+        },
+        {
+          "month": "2021-12",
+          "count": 2
+        },
+        {
+          "month": "2022-03",
+          "count": 3
+        },
+        {
+          "month": "2022-04",
+          "count": 1
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2022-04-26",
+          "laid_off": 340,
+          "pct": 0.09,
+          "before": 4,
+          "after": 0,
+          "delta": -4,
+          "delta_pct": -100.0,
+          "source": "https://www.cnbc.com/2022/04/26/robinhood-cutting-about-9percent-of-full-time-employees.html"
+        },
+        {
+          "date": "2022-08-02",
+          "laid_off": 713,
+          "pct": 0.23,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://techcrunch.com/2022/08/02/robinhood-23-layoff-vlad-tenev-responsibility-hiring/"
+        },
+        {
+          "date": "2023-06-26",
+          "laid_off": 150,
+          "pct": 0.07,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.wsj.com/articles/robinhood-lays-off-about-7-of-its-full-time-employees-2111cb48"
+        },
+        {
+          "date": "2023-09-21",
+          "laid_off": null,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.businessinsider.com/robinhood-layoffs-reorganization-credit-cards-shrinking-user-base-insiders-say-2023-9"
+        },
+        {
+          "date": "2024-09-04",
+          "laid_off": 340,
+          "pct": 0.09,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://bitcoinist.com/340-robinhood-employees-are-about-to-lose-jobs/"
+        }
+      ]
+    },
+    {
+      "name": "MURAL",
+      "status_url": "https://status.mural.co/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2024-01-16",
+      "incidents_last": "2026-04-17",
+      "monthly": [
+        {
+          "month": "2024-01",
+          "count": 2
+        },
+        {
+          "month": "2024-02",
+          "count": 1
+        },
+        {
+          "month": "2024-03",
+          "count": 1
+        },
+        {
+          "month": "2024-09",
+          "count": 3
+        },
+        {
+          "month": "2024-10",
+          "count": 3
+        },
+        {
+          "month": "2024-11",
+          "count": 1
+        },
+        {
+          "month": "2025-01",
+          "count": 1
+        },
+        {
+          "month": "2025-03",
+          "count": 1
+        },
+        {
+          "month": "2025-04",
+          "count": 2
+        },
+        {
+          "month": "2025-05",
+          "count": 2
+        },
+        {
+          "month": "2025-08",
+          "count": 1
+        },
+        {
+          "month": "2025-10",
+          "count": 2
+        },
+        {
+          "month": "2025-11",
+          "count": 1
+        },
+        {
+          "month": "2025-12",
+          "count": 1
+        },
+        {
+          "month": "2026-03",
+          "count": 1
+        },
+        {
+          "month": "2026-04",
+          "count": 2
+        }
+      ],
+      "layoff_events": []
+    },
+    {
+      "name": "Klaviyo",
+      "status_url": "https://status.klaviyo.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-09-29",
+      "incidents_last": "2026-05-19",
+      "monthly": [
+        {
+          "month": "2025-09",
+          "count": 2
+        },
+        {
+          "month": "2025-10",
+          "count": 4
+        },
+        {
+          "month": "2025-11",
+          "count": 6
+        },
+        {
+          "month": "2025-12",
+          "count": 5
+        },
+        {
+          "month": "2026-01",
+          "count": 1
+        },
+        {
+          "month": "2026-03",
+          "count": 1
+        },
+        {
+          "month": "2026-04",
+          "count": 1
+        },
+        {
+          "month": "2026-05",
+          "count": 5
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2023-03-15",
+          "laid_off": 140,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://techcrunch.com/2023/03/15/klaviyo-conducts-company-wide-layoffs/"
+        },
+        {
+          "date": "2025-08-25",
+          "laid_off": 100,
+          "pct": 0.04,
+          "before": 0,
+          "after": 11,
+          "delta": 11,
+          "delta_pct": null,
+          "source": "https://www.nbcboston.com/boston-business-journal/klaviyo-one-of-massachusetts-fastest-growing-public-companies-laying-off-workers/3798885/"
+        }
+      ]
+    },
+    {
+      "name": "PagerDuty",
+      "status_url": "https://status.pagerduty.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": [
+        {
+          "date": "2023-01-24",
+          "laid_off": null,
+          "pct": 0.07,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.marketwatch.com/story/pagerduty-to-lay-off-7-of-staff-revenue-officer-to-exit-271674568511"
+        }
+      ]
+    },
+    {
+      "name": "Algolia",
+      "status_url": "https://status.algolia.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": []
+    },
+    {
+      "name": "Sentry",
+      "status_url": "https://status.sentry.io/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-02-26",
+      "incidents_last": "2026-05-26",
+      "monthly": [
+        {
+          "month": "2026-02",
+          "count": 1
+        },
+        {
+          "month": "2026-03",
+          "count": 4
+        },
+        {
+          "month": "2026-04",
+          "count": 11
+        },
+        {
+          "month": "2026-05",
+          "count": 9
+        }
+      ],
+      "layoff_events": []
+    },
+    {
+      "name": "Auth0",
+      "status_url": "https://status.auth0.com/feed?domain=auth0.com",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": []
+    },
+    {
+      "name": "Postman",
+      "status_url": "https://status.postman.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-08-05",
+      "incidents_last": "2026-04-25",
+      "monthly": [
+        {
+          "month": "2025-08",
+          "count": 2
+        },
+        {
+          "month": "2025-09",
+          "count": 2
+        },
+        {
+          "month": "2025-10",
+          "count": 5
+        },
+        {
+          "month": "2025-11",
+          "count": 3
+        },
+        {
+          "month": "2025-12",
+          "count": 2
+        },
+        {
+          "month": "2026-01",
+          "count": 1
+        },
+        {
+          "month": "2026-02",
+          "count": 3
+        },
+        {
+          "month": "2026-03",
+          "count": 5
+        },
+        {
+          "month": "2026-04",
+          "count": 2
+        }
+      ],
+      "layoff_events": []
+    },
+    {
+      "name": "Linear",
+      "status_url": "https://status.linear.app/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": []
+    },
+    {
+      "name": "Vercel",
+      "status_url": "https://www.vercel-status.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-04-22",
+      "incidents_last": "2026-05-25",
+      "monthly": [
+        {
+          "month": "2026-04",
+          "count": 8
+        },
+        {
+          "month": "2026-05",
+          "count": 17
+        }
+      ],
+      "layoff_events": []
+    },
+    {
+      "name": "Netlify",
+      "status_url": "https://www.netlifystatus.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-04-06",
+      "incidents_last": "2026-05-26",
+      "monthly": [
+        {
+          "month": "2026-04",
+          "count": 6
+        },
+        {
+          "month": "2026-05",
+          "count": 19
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2022-12-01",
+          "laid_off": 48,
+          "pct": 0.16,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "Internal memo"
+        },
+        {
+          "date": "2023-07-13",
+          "laid_off": null,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.netlify.com/blog/ceo-announcement-to-the-netlify-team/"
+        }
+      ]
+    },
+    {
+      "name": "Fastly",
+      "status_url": "https://status.fastly.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": []
+    },
+    {
+      "name": "Plaid",
+      "status_url": "https://status.plaid.com/history.atom",
+      "incidents_total": 30,
+      "incidents_first": "2026-03-03",
+      "incidents_last": "2026-05-22",
+      "monthly": [
+        {
+          "month": "2026-03",
+          "count": 10
+        },
+        {
+          "month": "2026-04",
+          "count": 11
+        },
+        {
+          "month": "2026-05",
+          "count": 9
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2022-12-07",
+          "laid_off": 260,
+          "pct": 0.2,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://techcrunch.com/2022/12/07/plaid-layoff-fintech/"
+        }
+      ]
+    },
+    {
+      "name": "Okta",
+      "status_url": "https://status.okta.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": [
+        {
+          "date": "2022-08-26",
+          "laid_off": 24,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.unleash.ai/economy/okta-lays-off-us-sourcing-team/"
+        },
+        {
+          "date": "2023-02-02",
+          "laid_off": 300,
+          "pct": 0.05,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.bloomberg.com/news/articles/2023-02-02/okta-to-lay-off-300-employees-citing-overhiring-execution-challenges"
+        },
+        {
+          "date": "2024-02-01",
+          "laid_off": 400,
+          "pct": 0.07,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2024/02/01/okta-to-lay-off-7percent-of-staff-about-400-employees.html"
+        },
+        {
+          "date": "2024-02-01",
+          "laid_off": 400,
+          "pct": 0.07,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2024/02/01/okta-layoffs-7-percent.html"
+        }
+      ]
+    },
+    {
+      "name": "Box",
+      "status_url": "https://status.box.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2025-11-10",
+      "incidents_last": "2026-05-22",
+      "monthly": [
+        {
+          "month": "2025-11",
+          "count": 3
+        },
+        {
+          "month": "2025-12",
+          "count": 3
+        },
+        {
+          "month": "2026-01",
+          "count": 3
+        },
+        {
+          "month": "2026-02",
+          "count": 6
+        },
+        {
+          "month": "2026-03",
+          "count": 6
+        },
+        {
+          "month": "2026-04",
+          "count": 2
+        },
+        {
+          "month": "2026-05",
+          "count": 2
+        }
+      ],
+      "layoff_events": []
+    },
+    {
+      "name": "DocuSign",
+      "status_url": "https://status.docusign.com/history.atom",
+      "incidents_total": 25,
+      "incidents_first": "2026-03-06",
+      "incidents_last": "2026-05-22",
+      "monthly": [
+        {
+          "month": "2026-03",
+          "count": 6
+        },
+        {
+          "month": "2026-04",
+          "count": 7
+        },
+        {
+          "month": "2026-05",
+          "count": 12
+        }
+      ],
+      "layoff_events": [
+        {
+          "date": "2022-09-28",
+          "laid_off": 671,
+          "pct": 0.09,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.sfgate.com/news/article/san-francisco-tech-company-docusign-layoffs-17473918.php"
+        },
+        {
+          "date": "2023-02-16",
+          "laid_off": 680,
+          "pct": 0.1,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2023/02/16/docusign-layoffs-company-to-cut-10percent-of-workforce.html"
+        },
+        {
+          "date": "2024-02-06",
+          "laid_off": 440,
+          "pct": 0.06,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2024/02/06/docusign-to-lay-off-6percent-of-workforce-or-about-440-jobs.html"
+        },
+        {
+          "date": "2024-02-06",
+          "laid_off": 440,
+          "pct": 0.06,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.cnbc.com/2024/02/06/docusign-to-lay-off-6percent-of-workforce-or-about-440-jobs.html"
+        }
+      ]
+    },
+    {
+      "name": "Zendesk",
+      "status_url": "https://status.zendesk.com/history.atom",
+      "incidents_total": 0,
+      "incidents_first": null,
+      "incidents_last": null,
+      "monthly": [],
+      "layoff_events": [
+        {
+          "date": "2022-08-04",
+          "laid_off": 80,
+          "pct": null,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "Internal memo"
+        },
+        {
+          "date": "2022-11-07",
+          "laid_off": 350,
+          "pct": 0.05,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://twitter.com/GergelyOrosz/status/1589676662593302528"
+        },
+        {
+          "date": "2023-05-31",
+          "laid_off": 320,
+          "pct": 0.08,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.zendesk.com/newsroom/articles/zendesk-workforce-reduction/"
+        },
+        {
+          "date": "2025-02-12",
+          "laid_off": 51,
+          "pct": 0.01,
+          "before": 0,
+          "after": 0,
+          "delta": 0,
+          "delta_pct": null,
+          "source": "https://www.kron4.com/news/bay-area/zendesk-lays-off-dozens-of-employees-at-sf-headquarters/"
+        }
+      ]
+    }
+  ]
+}
