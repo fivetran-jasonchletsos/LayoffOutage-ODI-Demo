@@ -109,9 +109,7 @@ export function HomePage({ data }: { data: DataState }) {
                       {e.delta > 0 ? '+' : ''}{e.delta}
                     </td>
                     <td className="px-3 py-2 text-[11px]">
-                      <a href={e.source} target="_blank" rel="noopener noreferrer" className="text-[var(--color-accent)] hover:underline truncate inline-block max-w-[180px]">
-                        {new URL(e.source).hostname.replace('www.', '')}
-                      </a>
+                      <SourceLink href={e.source} />
                     </td>
                   </tr>
                 ))}
@@ -165,6 +163,19 @@ function Kpi({ label, big, sub }: { label: string; big: string; sub: string }) {
       <div className="font-serif text-3xl font-semibold mt-1 text-[var(--color-ink-strong)] tabular">{big}</div>
       <div className="text-[11.5px] text-[var(--color-ink-muted)] mt-1.5">{sub}</div>
     </div>
+  );
+}
+
+function SourceLink({ href }: { href: string }) {
+  if (!href || !href.startsWith('http')) {
+    return <span className="text-[var(--color-ink-dim)] italic truncate inline-block max-w-[180px]">{href || '—'}</span>;
+  }
+  let label = href;
+  try { label = new URL(href).hostname.replace('www.', ''); } catch { /* keep href as label */ }
+  return (
+    <a href={href} target="_blank" rel="noopener noreferrer" className="text-[var(--color-accent)] hover:underline truncate inline-block max-w-[180px]">
+      {label}
+    </a>
   );
 }
 

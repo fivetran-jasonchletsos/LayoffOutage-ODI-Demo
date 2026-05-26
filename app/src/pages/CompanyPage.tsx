@@ -71,9 +71,13 @@ export function CompanyPage({ company }: { company: CompanyRollup }) {
                       {l.delta > 0 ? '+' : ''}{l.delta}
                     </td>
                     <td className="px-3 py-2 text-[11px]">
-                      <a href={l.source} target="_blank" rel="noopener noreferrer" className="text-[var(--color-accent)] hover:underline truncate inline-block max-w-[220px]">
-                        {hostnameOf(l.source)}
-                      </a>
+                      {l.source && l.source.startsWith('http') ? (
+                        <a href={l.source} target="_blank" rel="noopener noreferrer" className="text-[var(--color-accent)] hover:underline truncate inline-block max-w-[220px]">
+                          {hostnameOf(l.source)}
+                        </a>
+                      ) : (
+                        <span className="text-[var(--color-ink-dim)] italic">{l.source || '—'}</span>
+                      )}
                     </td>
                   </tr>
                 ))}
@@ -194,5 +198,6 @@ function Th({ children, align = 'left' }: { children: React.ReactNode; align?: '
 }
 
 function hostnameOf(url: string) {
+  if (!url || !url.startsWith('http')) return url || '—';
   try { return new URL(url).hostname.replace('www.', ''); } catch { return url; }
 }
