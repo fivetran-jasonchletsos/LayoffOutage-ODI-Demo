@@ -25,10 +25,10 @@ export default function App() {
   useEffect(() => {
     const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     Promise.all([
-      fetch(`${base}/data/meta.json`).then((r) => r.json()),
-      fetch(`${base}/data/companies.json`).then((r) => r.json()),
-      fetch(`${base}/data/correlations.json`).then((r) => r.json()),
-      fetch(`${base}/data/layoffs.json`).then((r) => r.json()),
+      fetch(`${base}/data/meta.json`).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
+      fetch(`${base}/data/companies.json`).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
+      fetch(`${base}/data/correlations.json`).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
+      fetch(`${base}/data/layoffs.json`).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
     ])
       .then(([meta, companies, correlations, layoffs]) => {
         setData({
