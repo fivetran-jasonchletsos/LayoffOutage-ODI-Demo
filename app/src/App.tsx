@@ -136,7 +136,7 @@ function Footer({ meta }: { meta: Meta | null }) {
           <p className="text-[13px] text-[var(--color-ink-muted)] mt-1.5 leading-relaxed">
             By <strong className="text-[var(--color-ink-strong)]">Jason Chletsos</strong> (JC), Sales Engineering at Fivetran.
             Architecture follows the <Link to="/architecture" className="text-[var(--color-accent)] hover:underline">Open Data Infrastructure</Link> pattern —
-            Fivetran ingestion, Iceberg lake, dbt transforms, Cortex narration.
+            Fivetran ingestion, Iceberg lake, dbt transforms, run-time agents reading the gold layer.
           </p>
         </div>
         <div className="text-[11px] font-mono text-[var(--color-ink-soft)] text-right">

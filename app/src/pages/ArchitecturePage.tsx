@@ -38,10 +38,10 @@ export function ArchitecturePage({ data }: { data: DataState }) {
             </Zone>
 
             <Zone title="Consumers" sub="who reads it">
-              <Pill label="Snowflake" sub="primary engine + Cortex" />
+              <Pill label="Snowflake" sub="primary query engine" />
               <Pill label="Athena" sub="serverless ad-hoc" />
               <Pill label="DuckDB" sub="laptop analytics" />
-              <Pill label="Cortex Analyst" sub="natural-language Q&A" />
+              <Pill label="Run-time agents" sub="dbt-wizard reads the gold layer" />
               <Pill label="This Viewer" sub="static gold JSON" />
             </Zone>
           </div>
@@ -58,8 +58,9 @@ export function ArchitecturePage({ data }: { data: DataState }) {
           The production architecture (what a Fivetran customer would actually deploy) is what's
           drawn above: Fivetran custom HTTP connectors land the raw layoffs CSV and the per-company
           atom feeds into Bronze Iceberg tables. dbt builds Silver (normalized event tables) and
-          Gold (the correlations the chart reads). Snowflake Cortex narrates the per-company drill-down
-          page.
+          Gold (the correlations the chart reads). Humans and run-time agents read the same gold layer:
+          the dbt-wizard run-time pairs four sub-agents (Explorer, Summary, Worker, Verification) to
+          query the per-company drill-down.
         </p>
         <p>
           The dataset is small enough that the static-export version is the right choice for this
@@ -81,8 +82,8 @@ export function ArchitecturePage({ data }: { data: DataState }) {
           all SQL. Reproducible, version-controlled, peer-reviewable.
         </Bullet>
         <Bullet>
-          <strong>Cortex could narrate (not enabled in v1).</strong> Each company drill-down could carry a Cortex-COMPLETE-generated
-          descriptive caption — incident counts and dates only, no quality judgments. Any LLM output about a named
+          <strong>Run-time agents could narrate (not enabled in v1).</strong> Each company drill-down could carry an
+          agent-generated descriptive caption — incident counts and dates only, no quality judgments. Any agent output about a named
           company would be reviewed pre-publication before turning this on. Today the page shows only the data and the source.
         </Bullet>
       </Section>
